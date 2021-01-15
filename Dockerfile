@@ -1,5 +1,4 @@
-# FROM ruby:2.5.3
-FROM 202848614748.dkr.ecr.us-east-1.amazonaws.com/ruby
+FROM ruby:2.5.3
 
 ENV PATH /root/.yarn/bin:$PATH
 
